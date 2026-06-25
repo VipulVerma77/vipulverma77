@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#007acc">Vipul Verma</span></h1>
 <p align="center">
-  💻 Frontend Software Engineer | ⚛️ React & React Native Developer | 
+  💻 FullStack Software Engineer | ⚛️ React & Asp.Net with MySql | 
   🌍 Based in India | 📚 Passionate Problem Solver & Lifelong Learner
 </p>
 
@@ -16,10 +16,9 @@
 
 - 👨🏻‍💻 Pronouns: He/Him  
 - 💼 Frontend Software Engineer @ **Continuum ElectroProducts Pvt Ltd**
-- ⚛️ Specializing in **React.js**, **React Native**, and **real-time UI development**
+- ⚛️ Specializing in **React.js**, **ASP.NET Core WebApi**, and **MySQL**
 - 🚀 Built scalable features that improved **performance by 25%** and **engagement by 30%**
 - 🔧 Working on: **YouTube Clone**, **Expo + SIP2 Kiosk App**
-- 📡 Currently learning advanced **networking**, **WebSocket protocols**, and **Node.js**
 - 🧠 Strong believer in clean code, component-driven architecture, and design consistency
 
 ---
