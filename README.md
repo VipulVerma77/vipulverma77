@@ -1,75 +1,118 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#007acc">Vipul Verma</span></h1>
-<p align="center">
-  💻 FullStack Software Engineer | ⚛️ React & Asp.Net with MySql | 
-  🌍 Based in India | 📚 Passionate Problem Solver & Lifelong Learner
-</p>
-
-<br/>
+<h1 align="center">Hi 👋, I'm Vipul Verma</h1>
+<h3 align="center">Full Stack Software Engineer | React.js | ASP.NET Core | MySQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=FullStack software engineer+%40+Continuum+ElectroProducts;DotNet+Developer;Real-time+WebSocket+Integration;YouTube+Clone+in+Progress" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;React.js+%7C+ASP.NET+Core+%7C+MySQL;Building+Scalable+Web+Applications;Passionate+About+Clean+Architecture+%26+Performance" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 👨🏻‍💻 Pronouns: He/Him  
-- 💼 Frontend Software Engineer @ **Continuum ElectroProducts Pvt Ltd**
-- ⚛️ Specializing in **React.js**, **ASP.NET Core WebApi**, and **MySQL**
-- 🚀 Built scalable features that improved **performance by 25%** and **engagement by 30%**
-- 🔧 Working on: **YouTube Clone**, **Expo + SIP2 Kiosk App**
-- 🧠 Strong believer in clean code, component-driven architecture, and design consistency
+💻 Full Stack Software Engineer with 2+ years of experience building production-grade web applications.
+
+🔹 Specialized in **React.js, ASP.NET Core, and MySQL**  
+🔹 Experienced in **REST APIs, Authentication, Multi-Tenant Architecture, and System Integration**  
+🔹 Passionate about **clean code, scalable architecture, and performance optimization**  
+🔹 Strong believer in **continuous learning and engineering best practices**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 💼 Professional Experience
+
+### Software Engineer
+**Continuum ElectroProducts Pvt Ltd** | Jul 2024 - Present
+
+- Built configurable ID Card Design & Printing modules deployed across multiple institutions
+- Developed access management systems using barcode scanners and smart card authentication
+- Designed dynamic admin panels with customizable layouts and feature toggles
+- Built self-service transaction modules through external system integrations
+- Developed secure REST APIs using ASP.NET Core and MySQL
+- Optimized React rendering and SQL queries to improve application responsiveness
+- Worked across the complete Agile lifecycle including development, deployment, and production support
+
+### Software Engineer Intern
+**Continuum ElectroProducts Pvt Ltd** | Dec 2023 - Jun 2024
+
+- Contributed to a production-grade library automation platform
+- Developed React components and ASP.NET APIs
+- Participated in debugging, testing, code reviews, and deployments
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-20232A?style=for-the-badge&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css)
+
+### Backend
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql)
+
+### Tools & Practices
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-20232A?style=for-the-badge&logo=githubactions)
+![REST API](https://img.shields.io/badge/REST_API-20232A?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-20232A?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-20232A?style=for-the-badge)
+
+---
+
+## 🚀 Featured Project
+
+### 🏋️ IronDesk - Multi-Tenant Gym Management SaaS
+
+- Multi-tenant architecture with complete tenant isolation
+- JWT Authentication with Refresh Tokens and Role-Based Authorization
+- Subscription lifecycle engine with scheduled background jobs
+- Payment and membership management workflows
+- Attendance tracking and reporting system
+- Built with TanStack Query, Redux Toolkit, React Hook Form, and ASP.NET Core
+- Implemented 150+ automated tests and GitHub Actions CI/CD pipelines
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" title="Socket.io" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VipulVerma77&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VipulVerma77&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 LeetCode Stats
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/vipulverma4577/)
+## 🧠 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/vipulverma4577?ext=contest&theme=dark&animation=true&border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulverma77&theme=tokyonight" />
-</p>
-
----
-
-## 📬 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vipulverma7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://leetcode.com/u/vipulverma4577/">
+    <img src="https://leetcard.jacoblin.cool/vipulverma4577?theme=dark&ext=contest" />
   </a>
-  &nbsp;
-  <a href="mailto:vipulverma4577@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/vipulverma7">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vipulverma4977@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  ⭐ Open to collaborating on Full Stack and .NET projects.
 </p>
